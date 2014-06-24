@@ -38,7 +38,7 @@ public class PECollector {
 	private static int written = 0;
 
 	private static File output = new File("pefiles");
-	private static final String USAGE = "java -jar pecollector.jar <startfolder>";
+	private static final String USAGE = "usage: java -jar pecollector.jar <startfolder>";
 
 	public static void main(String[] args) throws IOException {
 		invokeCLI(args);

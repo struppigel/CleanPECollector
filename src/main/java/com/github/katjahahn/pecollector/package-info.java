@@ -14,7 +14,7 @@
  * limitations under the License.
  ******************************************************************************/
 /**
- * Package contains the logic of the collector for clean PE samples.
+ * Package contains the logic and CLI of the collector for PE samples.
  * 
  * @author Katja Hahn
  *
